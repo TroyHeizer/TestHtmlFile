@@ -1,1 +1,1 @@
-Dummy read me
+This project is just to show some of the basics i've learned in intro to web design.
